@@ -1,0 +1,23 @@
+h6{
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: justify;
+}
+
+.wave-container {
+  position: relative;
+  color: #FFF;
+  text-align: center;
+  overflow: hidden;
+  
+  img {
+    margin-bottom: 20px;
+    margin-top: 0px;
+    float: center;
+  }
+
+}
+
+.wave-container > svg {
+  display: block;
+}

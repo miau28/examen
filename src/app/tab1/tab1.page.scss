@@ -1,0 +1,33 @@
+ion-content {
+    --background: #091d23;
+  }
+  
+    
+  .wave-container {
+    position: relative;
+    color: #FFF;
+    text-align: center;
+    overflow: hidden;
+    
+    img {
+      margin-bottom: 20px;
+      margin-top: 0px;
+      float: center;
+    }
+  
+  }
+  
+  .wave-container > svg {
+    display: block;
+  }
+  
+  
+  h1 {
+    font-size: 4rem;
+    margin: 2rem auto;
+  }
+  
+  p{
+    color: #FFF;
+    float: center;
+  }
